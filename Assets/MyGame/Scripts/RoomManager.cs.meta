@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 33d6d9b169e923742812be4e643847cc
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - tableLayout: {instanceID: 0}
+  - tablePrefab: {instanceID: 0}
+  - chairPrefab: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
