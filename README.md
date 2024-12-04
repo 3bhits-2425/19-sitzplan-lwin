@@ -1,13 +1,13 @@
 # 19-sitzplan-lwin
-Erstellung eines virtuellen Sitzplan anhand dem echten Sitzplan in der Klasse.
+Creation of a virtual seating plan based on the actual seating plan in the classroom.
 
-Prefab: Stuhl und Tisch als Prefab erstellt.
+**Prefab**: Chair and desk created as prefabs.
 
-Automatische Anordnung von Tisch & Stuhl per For-Schleife.
+**Automatic arrangement** of desks and chairs using a **for-loop**.
 
-Schüler: Jeder Schüler hat eine eigene Audio und ein eigenes Image und einen festen Sitzplatz in der Klasse.
+**Students**: Each student has their own audio, image, and a fixed seat in the classroom.
 
-Image: Augenfarbe, Name
+**Image**: Eye color, name.
 
 ![Image](https://github.com/user-attachments/assets/644be0aa-cbfe-4c1e-b250-7fe0269cf96f)
 
