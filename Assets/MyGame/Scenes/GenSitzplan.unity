@@ -183,7 +183,7 @@ Camera:
   near clip plane: 0.3
   far clip plane: 1000
   field of view: 60
-  orthographic: 1
+  orthographic: 0
   orthographic size: 8.493272
   m_Depth: -1
   m_CullingMask:
@@ -208,13 +208,13 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 87720751}
   serializedVersion: 2
-  m_LocalRotation: {x: 0.048226334, y: 0.12541908, z: 0.006149981, w: 0.9909119}
-  m_LocalPosition: {x: 0, y: 0, z: -10}
+  m_LocalRotation: {x: 0.1563562, y: 0.12533899, z: -0.0076095094, w: 0.9796862}
+  m_LocalPosition: {x: 3.94, y: 2.55, z: -5.06}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: 5.396, y: 14.493, z: 1.398}
+  m_LocalEulerAnglesHint: {x: 17.955, y: 14.813, z: 1.463}
 --- !u!1 &1003628834
 GameObject:
   m_ObjectHideFlags: 0
@@ -260,8 +260,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   tableLayout: {fileID: 11400000, guid: fc933c459e784844c961ce8796379570, type: 2}
-  students:
-  - {fileID: 11400000, guid: 94c032141443b824aa1ecc6d53d99103, type: 2}
+  students: []
   tablePrefab: {fileID: 8486875957835840633, guid: b6a33d73b030aa54ab84649b5f454739, type: 3}
   chairPrefab: {fileID: 4109682775871856221, guid: b17ce47835b388c4fa9b7c265c5600eb, type: 3}
 --- !u!1660057539 &9223372036854775807

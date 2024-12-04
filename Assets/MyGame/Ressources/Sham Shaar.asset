@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49f1d4cf4ce4da14f80c9292f3da4381, type: 3}
+  m_Name: Sham Shaar
+  m_EditorClassIdentifier: 
+  studentName: Sham Shaar
+  eyeColor: {r: 0.3301887, g: 0.28782487, b: 0, a: 0}
+  studentImage: {fileID: 21300000, guid: b24d0b263e1eb8041a4df5b8af1ccb84, type: 3}
+  studentClip: {fileID: 8300000, guid: 81c667474b72efe4db2d52eee11c54f2, type: 3}
