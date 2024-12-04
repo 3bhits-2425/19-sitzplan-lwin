@@ -10,3 +10,7 @@ Schüler: Jeder Schüler hat eine eigene Audio und ein eigenes Image und einen f
 Image: Augenfarbe, Name
 
 ![Image](https://github.com/user-attachments/assets/644be0aa-cbfe-4c1e-b250-7fe0269cf96f)
+
+https://github.com/user-attachments/assets/17c4740f-6a1c-4a17-b04e-d76e48148ae8
+
+
