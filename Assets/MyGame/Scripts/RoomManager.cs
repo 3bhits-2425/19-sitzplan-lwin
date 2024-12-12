@@ -19,18 +19,18 @@ public class RoomManager : MonoBehaviour
                 Vector3 tablePosition = new Vector3(col * tableLayout.tableSpacing, 0, row * tableLayout.tableSpacing);
                 GameObject table = Instantiate(tablePrefab, tablePosition, Quaternion.identity, transform);
 
-                // Stühle platzieren
+                // Sessel platzieren
                 Transform pos1 = table.transform.Find("Position1");
                 Transform pos2 = table.transform.Find("Position2");
 
                 if (pos1)
                 {
-                    GameObject chair = Instantiate(chairPrefab, pos1.position, pos1.rotation, table.transform);
+                    Instantiate(chairPrefab, pos1.position, pos1.rotation, table.transform);
                 }
 
                 if (pos2)
                 {
-                    GameObject chair = Instantiate(chairPrefab, pos2.position, pos2.rotation, table.transform);
+                    Instantiate(chairPrefab, pos2.position, pos2.rotation, table.transform);
                 }
             }
         }

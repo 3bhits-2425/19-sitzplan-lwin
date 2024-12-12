@@ -15,4 +15,4 @@ MonoBehaviour:
   rows: 3
   columns: 4
   tableSpacing: 4
-  chairSpacing: 5
+  chairSpacing: 2
